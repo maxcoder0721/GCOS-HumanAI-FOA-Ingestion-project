@@ -1,0 +1,18 @@
+{
+  "foa_id": "NSF-505819",
+  "title": "Ethical and Responsible AI (ERA)",
+  "agency": "National Science Foundation (NSF)",
+  "open_date": "2024-10-01",
+  "close_date": "2025-06-15",
+  "award_range": "$500,000 - $1,500,000",
+  "description": "The Ethical and Responsible AI program supports foundational research that enables the design, development, and deployment of AI systems that are fair, transparent, accountable, and aligned with human values. Projects may address bias mitigation, explainability, privacy-preserving machine learning, and human-AI collaboration. Proposals from interdisciplinary teams combining computer science, social science, and ethics are especially encouraged.",
+  "eligibility": "Universities and colleges, non-profit organizations, and other research institutions are eligible. International collaborations are permitted as subawards.",
+  "source_url": "https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505819",
+  "semantic_tags": {
+    "research_domains": ["computer_science", "social_science"],
+    "methods": ["machine_learning", "modeling"],
+    "populations": ["general_public"],
+    "sponsor_themes": ["basic_research", "applied_research"]
+  },
+  "ingested_at": "2026-03-29T18:00:00Z"
+}
