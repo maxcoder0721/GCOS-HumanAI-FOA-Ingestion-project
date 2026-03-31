@@ -1,0 +1,31 @@
+{
+  "foa_id": "ECE743C4",
+  "title": "TechAccess: AI-Ready America",
+  "agency": "N/A",
+  "open_date": "N/A",
+  "close_date": "State/Territory Coordination Hubs: July 16, 2026 (round 1); January 15, 2027 (round 2); July 1, 2027 (round 3)",
+  "award_range": "Top",
+  "description": "Skip to main contentAn official website of the United States governmentHere's how you knowHere's how you knowOfficial websites use .govA.govwebsite belongs to an official government organization in the United States.Secure .gov websites use HTTPS.Alock(LockLocked padlock)\n              orhttps://means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.SearchMenuSearchsearchFind FundingFunding SearchAward SearchNSF-wide InitiativesResearch Experiences for UndergraduatesWhere to StartFor EveryoneFor Early-Career ResearchersFor Postdoctoral FellowsFor Graduate StudentsFor UndergraduatesFor IndustryFor EntrepreneursHow to ApplyPreparing Your ProposalSubmitting Your ProposalProposal & Award Policies & Procedures Guide (PAPPG)Additional ResourcesResearch.govGrants.govHow We Make Funding DecisionsManage Your AwardGetting StartedRequest a Change to Your AwardReport Your OutcomesProposal & Award Policies & Procedures Guide (PAPPG)Additional ResourcesResearch.govNSF Public Access RepositoryWho to Contact With QuestionsFocus AreasMajor InitiativesArtificial IntelligenceBiotechnologyQuantumSTEM WorkforceFocus AreasExplore All Focus AreasArctic and AntarcticAstronomy and SpaceBiologyChemistryComputingEarth and EnvironmentEducation and TrainingEngineeringFacilities and InfrastructureMaterials ResearchMathematicsPeople and SocietyPhysicsResearch PartnershipsTechnologyNews & EventsNews & AnnouncementsNSF ImpactsScience Matters BlogFor the PressUpcoming EventsAboutAbout NSFUpdates on NSF PrioritiesContact UsOur Directorates & OfficesHow NSF Is OrganizedBiological Sciences (BIO)Computer & Information Science & Engineering (CISE)Engineering (ENG)Geosciences (GEO)Integrative Activities (OIA)International Science & Engineering (OISE)Mathematical & Physical Sciences (MPS)Social, Behavioral & Economic Sciences (SBE)STEM Education (EDU)Technology, Innovation & Partnerships (TIP)National Center for Science & Engineering Statistics (NCS",
+  "eligibility": "N/A",
+  "source_url": "https://www.nsf.gov/funding/opportunities/techaccess-ai-ready-america",
+  "semantic_tags": {
+    "research_domains": [
+      "computer_science",
+      "environment",
+      "social_science",
+      "engineering",
+      "physics"
+    ],
+    "methods": [
+      "modeling"
+    ],
+    "populations": [
+      "youth"
+    ],
+    "sponsor_themes": [
+      "workforce",
+      "infrastructure"
+    ]
+  },
+  "ingested_at": "2026-03-30T20:48:37.714095Z"
+}
